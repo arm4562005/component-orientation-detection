@@ -1,0 +1,4 @@
+# Pinned below 5.0 because this project uses cv2.HOGDescriptor.
+opencv-python<5
+numpy
+Pillow
